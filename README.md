@@ -14,3 +14,6 @@ Prioritized explainability and reliability over novelty.
 
 ## Outcome
 Reusable patterns for shipping AI features in real products.
+
+## Audience
+Product managers and teams shipping AI in production environments.
